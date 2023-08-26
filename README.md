@@ -1,4 +1,4 @@
-site live @https://64e68aa506ab901308f112c6--zingy-sprite-65bb72.netlify.app/
+site live @https://metaverses-theta.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
